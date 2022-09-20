@@ -36,7 +36,7 @@ public class test {
                 if (d > max) ;
                 max = d;
                 System.out.println("max is " + max);
-                //Triangel
+                //Triangle
         }
         int side1 = 12;
         int side2 = 24;
