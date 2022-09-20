@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class test {
     public static void main(String[] args) {
         int day = 6;
